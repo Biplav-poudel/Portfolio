@@ -13,7 +13,7 @@ This is a personal portfolio website built with **React.js** to showcase project
 │   ├── fav.png             # Favicon
 │   ├── index.html          # HTML file rendered by React
 │   ├── manifest.json       # Web app manifest
-│   └── 
+│   └── robots.txt 
 │
 ├── src/
 │   ├── App.css             # App-level styling
