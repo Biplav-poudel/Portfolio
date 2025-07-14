@@ -13,7 +13,7 @@ This is a personal portfolio website built with **React.js** to showcase project
 │   ├── fav.png             # Favicon
 │   ├── index.html          # HTML file rendered by React
 │   ├── manifest.json       # Web app manifest
-│   └── robots.txt          # Search engine crawling rules
+│   └── 
 │
 ├── src/
 │   ├── App.css             # App-level styling
@@ -25,7 +25,7 @@ This is a personal portfolio website built with **React.js** to showcase project
 │   └── setupTests.js       # Jest test configuration
 │
 ├── .gitignore              # Git ignored files
-├── LICENSE                 # MIT License
+├── LICENSE                 # License
 ├── README.md               # You're reading it!
 ├── package.json            # Project metadata and dependencies
 └── package-lock.json       # Dependency tree lock
