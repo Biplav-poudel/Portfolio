@@ -537,20 +537,24 @@ width: 15px;
    background: var(--second-bg-color);
    border-radius: 2rem;
    border:2px solid var(--main-color);
-   margin: 1.5rem 0;
+   margin: 1.5rem;
    resize:none;
  }
  .contact form textarea{
-   margin-left: 2rem;
-   margin-top: 3rem;
+   margin-left: 4rem ;
+   margin-top: 5rem;
    width:100%;
    height: 76%;
-   padding-top: 2rem;
+   padding-top: 2rem ;
  }
  .contact form .btn{
    margin-top: 0rem;
-
  }
+ #sum{
+      margin-left: 3rem;
+ }
+
+
   
  .footer{
    position: relative;
@@ -646,7 +650,8 @@ width: 15px;
       left: 0;
    }
    .service{
-padding-bottom: 7rem;      
+
+      padding-bottom: 7rem;      
    }
    .portfolio .portfolio-gallery{
       grid-template-columns: repeat(1,1fr);
@@ -711,4 +716,8 @@ padding-bottom: 7rem;
    .service-container{
       grid-template-columns: repeat(1,1fr);
    }
+    .contact form textarea{
+   margin-left: 1rem ;
+   }
+
 }
