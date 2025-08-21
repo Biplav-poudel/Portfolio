@@ -142,4 +142,4 @@ See the [LICENSE](LICENSE) file for more details.
 
 **Biplav Poudel**
 
-[Website](https://biplavpaudel.com.np) |[Github](https://github.com/Biplav-poudel)
+[Website](https://biplav-paudel.com.np) |[Github](https://github.com/Biplav-poudel)
