@@ -141,5 +141,5 @@ See the [LICENSE](LICENSE) file for more details.
 ## 🙋‍♂️ Author
 
 **Biplav Poudel**
-Biplav Poudel
-<link="[Website](https://biplavpaudel.com.np)"> |<link="[Github](https://github.com/Biplav-poudel)">  
+
+(https://biplavpaudel.com.np) |[Github](https://github.com/Biplav-poudel)
