@@ -9,26 +9,32 @@ This is a personal portfolio website built with **React.js** to showcase project
 ```
 .
 ├── public/
-│   ├── Assets/             # Static images and icons
-│   ├── fav.png             # Favicon
-│   ├── index.html          # HTML file rendered by React
-│   ├── manifest.json       # Web app manifest
-│   └── robots.txt 
-│
+│ ├── Assets/ # Static images and icons
+│ ├── fav.png # Favicon
+│ ├── index.html # Main HTML template (served by Vite)
+│ ├── manifest.json # Web app manifest for PWA
+│ └── robots.txt # SEO crawler instructions
+
 ├── src/
-│   ├── App.css             # App-level styling
-│   ├── App.js              # Main React component
-│   ├── App.test.js         # Unit test for App
-│   ├── index.css           # Global styles
-│   ├── index.js            # Entry point (renders App)
-│   ├── reportWebVitals.js  # Performance tracking (optional)
-│   └── setupTests.js       # Jest test configuration
-│
-├── .gitignore              # Git ignored files
-├── LICENSE                 # License
-├── README.md               # You're reading it!
-├── package.json            # Project metadata and dependencies
-└── package-lock.json       # Dependency tree lock
+│ ├── components/ # React components by feature/page
+│ │ ├── Footer.jsx
+│ │ ├── Header.jsx
+│ │ ├── Home.jsx
+│ │ ├── About.jsx
+│ │ ├── Loader.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Portfolio.jsx
+│ │ └── Services.jsx
+│ ├── App.css # App-level styles
+│ ├── App.jsx # Root React component
+│ ├── index.css # Global CSS styles
+│ └── main.jsx # React entry point (Vite's main file)
+├── index.html # Main HTML template
+├── package.json # Project metadata & dependencies
+├── vite.config.js # Vite configuration
+├── .gitignore # Git exclusions
+├── README.md # This file
+└── LICENSE # License info
 ```
 
 ---
@@ -48,15 +54,21 @@ Make sure you have Node.js and npm installed, then run:
 
 ```bash
 npm install
+# or
+yarn install
+
 ```
 
 ### 3. Start the Development Server
 
 ```bash
-npm start
+npm run dev
+# or
+yarn dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ---
 
@@ -67,6 +79,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - **JavaScript (ES6+)** – Core scripting
 - **Jest** – Testing framework (via Create React App)
 - **Create React App** – Scaffolding tool
+- **React 18 with JSX (`.jsx`)**  
+- **Vite** – Fast build and dev server  
+- **Optional:** React Router, testing libs, etc.
 
 ---
 
@@ -87,6 +102,9 @@ To run tests:
 
 ```bash
 npm test
+# or
+yarn test
+
 ```
 
 ---
@@ -97,6 +115,16 @@ To build the app:
 
 ```bash
 npm run build
+# or
+yarn build
+
+```
+Preview locally:
+```bash
+npm run preview
+# or
+yarn preview
+
 ```
 
 It will output a production-ready `build/` folder.
@@ -112,4 +140,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 🙋‍♂️ Author
 
-**Biplav Poudel**  
+**Biplav Poudel**
+Biplav Poudel
+<link="[Website](https://biplavpaudel.com.np)"> |<link="[Github](https://github.com/Biplav-poudel)">  
