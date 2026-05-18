@@ -27,7 +27,7 @@ const About = () => {
         </div>
 
         <div className="btn-box btns" data-aos="fade-up" data-aos-delay="800">
-          <a href="#" className="btn">Read More</a>
+          <a href="https://docs.google.com/presentation/d/14aOaf9Hk0ub0tn4p0YbUBhxabcGyKa5ovP7NdfEI2TM/edit?usp=drive_web&ouid=108904276595134166729" className="btn">Read More</a>
         </div>
       </div>
     </section>
