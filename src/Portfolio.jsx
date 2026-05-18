@@ -35,9 +35,9 @@ const Portfolio = () => {
               <img src="../Assets/img1.jpg" alt="Project screenshot 2" />
             </div>
             <div className="port-content">
-              <h3>lorem</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, dolore cumque? Temporibus odit autem quos perferendis fugit corrupti? Repudiandae</p>
-              <a href="#"><i className='bx bx-link-external'></i></a>
+              <h3>Voice Assist</h3>
+              <p>A Python-based voice-controlled assistant that recognizes your speech, processes commands, and responds using speech synthesis.</p>
+              <a href="https://github.com/Biplav-poudel/voice-assist-"><i className='bx bx-link-external'></i></a>
             </div>
           </div>
 
