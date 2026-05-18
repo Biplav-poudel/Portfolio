@@ -9,7 +9,7 @@ const Loader = () => {
     // Hide loader after 2 seconds
     const timer = setTimeout(() => {
       setVisible(true);
-    }, 1000);
+    }, 500);
 
     return () => clearTimeout(timer); // Cleanup on unmount
   }, []);
