@@ -8,7 +8,8 @@ const Service = () => {
       <div className="service-container">
         <div className="service-box" data-aos="fade-right" data-aos-delay="500">
           <div className="service-info">
-            <h4>UI Design</h4>
+           <h4>UI Design</h4>
+          <center> <h4>UI Design</h4> </center>
             {/* <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla hic asperiores est nobis in. Similique facilis quia blanditiis ipsam veritatis veniam nihil, suscipit hic, sed odio minus repellendus iste voluptatem!
             </p> */}
@@ -17,28 +18,28 @@ const Service = () => {
 
         <div className="service-box" data-aos="fade-left" data-aos-delay="500">
           <div className="service-info">
-            <h4>Frontend Development</h4>
-            <p>
+            <center><h4>Frontend Development</h4></center>
+            {/* <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla hic asperiores est nobis in. Similique facilis quia blanditiis ipsam veritatis veniam nihil, suscipit hic, sed odio minus repellendus iste voluptatem!
-            </p>
+            </p> */}
           </div>
         </div>
 
         <div className="service-box" data-aos="fade-right" data-aos-delay="500">
           <div className="service-info">
-            <h4>Backend Development</h4>
-            <p>
+            <center><h4>Backend Development</h4></center>
+            {/* <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla hic asperiores est nobis in. Similique facilis quia blanditiis ipsam veritatis veniam nihil, suscipit hic, sed odio minus repellendus iste voluptatem!
-            </p>
+            </p> */}
           </div>
         </div>
 
         <div className="service-box" data-aos="fade-left" data-aos-delay="500">
           <div className="service-info">
-            <h4>UX Design</h4>
-            <p>
+           <center> <h4>UX Design</h4></center>
+            {/* <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla hic asperiores est nobis in. Similique facilis quia blanditiis ipsam veritatis veniam nihil, suscipit hic, sed odio minus repellendus iste voluptatem!
-            </p>
+            </p> */}
           </div>
         </div>
       </div>
