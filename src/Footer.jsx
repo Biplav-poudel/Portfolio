@@ -11,7 +11,7 @@ const Footer = () => {
       </div>
       <div data-aos="fade-up" data-aos-delay="400">
         <ul className="list">
-          <li><a href="#home">FAQ</a></li>
+          <li><a href="#contact">FAQ</a></li>
           <li><a href="#service">Services</a></li>
           <li><a href="#about">About Me</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
