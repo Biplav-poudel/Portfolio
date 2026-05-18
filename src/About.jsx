@@ -22,8 +22,8 @@ const About = () => {
 
         <div data-aos="fade-left" data-aos-delay="700">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quaerat blanditiis necessitatibus perspiciatis expedita iste beatae labore repudiandae et natus est cumque eius quas exercitationem, obcaecati doloribus aut vero nobis quia aperiam sint ad quis. Consequuntur eius omnis facere cumque facilis repellendus nostrum ipsum et aliquam, quam iusto blanditiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio eos sint delectus pariatur repudiandae nisi hic perspiciatis dolorem odio, velit sit. Natus soluta adipisci porro ducimus ea excepturi eius velit.
-          </p>
+            An student currently pursuing a diploma in Computer Engineering with a passion for technology and innovation. Possesses strong problem-solving, analytical, and communication skills and eager to learn and contribute to team success. Seeking opportunities to apply academic knowledge and gain practical experience in the field of engineering.
+         </p>
         </div>
 
         <div className="btn-box btns" data-aos="fade-up" data-aos-delay="800">
