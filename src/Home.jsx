@@ -15,13 +15,13 @@ const HOME = () => {
          </p>
         </div>
         <div className="social-icon" data-aos="fade-down" data-aos-delay="2500">
-          <a href="#"><i className='bx bxl-linkedin'></i></a>
-          <a href="#"><i className='bx bxl-github'></i></a>
-          <a href="#"><i className='bx bxl-instagram'></i></a>
-          <a href="#"><i className='bx bxl-facebook'></i></a>
+          <a href="https://www.linkedin.com/in/biplav-poudel-a688662bb/"><i className='bx bxl-linkedin'></i></a>
+          <a href="https://github.com/Biplav-poudel"><i className='bx bxl-github'></i></a>
+          <a href="https://www.instagram.com/biplavpoudel15/"><i className='bx bxl-instagram'></i></a>
+          <a href="https://www.facebook.com/biplavpoudel123"><i className='bx bxl-facebook'></i></a>
         </div>
         <div className="btn-group" data-aos="fade-up" data-aos-delay="3000">
-          <a href="#" className="btn">Hire</a>
+          <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsmDpRkpHTLCJsXhnLQjWGMsMlSZSnTbgmFdCPFtWjHvpWTWTfvtwRtBNSbfrqTDvbrjbBnFxHPGQTp" className="btn">Hire</a>
           <a href="#contact" className="btn">Contact</a>
         </div>
       </div>
