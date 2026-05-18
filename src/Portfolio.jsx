@@ -21,7 +21,7 @@ const Portfolio = () => {
 
           <div className="port-box" data-aos="fade-right" data-aos-delay="500">
             <div className="port-img">
-              <img src="../Assets/img.png" alt="Project screenshot 1" />
+             <img src="../Assets/img1.jpg" alt="Project screenshot 2" />
             </div>
             <div className="port-content">
               <h3>lorem</h3>
@@ -32,7 +32,7 @@ const Portfolio = () => {
 
           <div className="port-box" data-aos="fade-left" data-aos-delay="500">
             <div className="port-img">
-              <img src="../Assets/img1.jpg" alt="Project screenshot 2" />
+               <img src="../Assets/img.png" alt="Project screenshot 1" />
             </div>
             <div className="port-content">
               <h3>Voice Assist</h3>
