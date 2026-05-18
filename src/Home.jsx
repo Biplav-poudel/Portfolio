@@ -10,9 +10,9 @@ const HOME = () => {
         <div data-aos="fade-left" data-aos-delay="2000">
           <p>
             I am a Grade 12 student currently pursuing a Diploma in Computer Engineering. <b>
-            </b>I am highly interested in web development and modern JavaScript technologies.
+            I am highly interested in web development and modern JavaScript technologies.</b>
             I am continuously improving my skills in JavaScript and React.js and enjoy building creative and interactive web applications.
-</p>
+         </p>
         </div>
         <div className="social-icon" data-aos="fade-down" data-aos-delay="2500">
           <a href="#"><i className='bx bxl-linkedin'></i></a>
