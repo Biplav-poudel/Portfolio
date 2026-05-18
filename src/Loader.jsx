@@ -8,7 +8,7 @@ const Loader = () => {
   useEffect(() => {
     // Hide loader after 2 seconds
     const timer = setTimeout(() => {
-      setVisible(false);
+      setVisible(true);
     }, 2000);
 
     return () => clearTimeout(timer); // Cleanup on unmount
