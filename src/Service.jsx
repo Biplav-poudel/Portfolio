@@ -8,7 +8,6 @@ const Service = () => {
       <div className="service-container">
         <div className="service-box" data-aos="fade-right" data-aos-delay="500">
           <div className="service-info">
-           <h4>UI Design</h4>
           <center> <h4>UI Design</h4> </center>
             {/* <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla hic asperiores est nobis in. Similique facilis quia blanditiis ipsam veritatis veniam nihil, suscipit hic, sed odio minus repellendus iste voluptatem!
