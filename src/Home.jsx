@@ -9,9 +9,9 @@ const HOME = () => {
         </div>
         <div data-aos="fade-left" data-aos-delay="2000">
           <p>
-            I am a Grade 12 student currently pursuing a Diploma in Computer Engineering.
-            I am highly interested in web development and modern JavaScript technologies.
-            I am continuously improving my skills in JavaScript and React.js and enjoy building creative and interactive web applications.
+            I am a student,Who! has currently completed studies in Computer Engineering.
+            I am have a passion for technology and innovation.
+            I am continuously improving my skills. 
          </p>
         </div>
         <div className="social-icon" data-aos="fade-down" data-aos-delay="2500">
