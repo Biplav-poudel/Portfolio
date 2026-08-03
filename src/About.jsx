@@ -22,12 +22,12 @@ const About = () => {
 
         <div data-aos="fade-left" data-aos-delay="700">
           <p>
-            An student currently pursuing a diploma in Computer Engineering with a passion for technology and innovation. Possesses strong problem-solving, analytical, and communication skills and eager to learn and contribute to team success. Seeking opportunities to apply academic knowledge and gain practical experience in the field of engineering.
+            An student currently completed studies in Computer Engineering  with a passion for technology and innovation. Possesses strong problem-solving, analytical, and communication skills and eager to learn and contribute to team success. Seeking opportunities to apply academic knowledge and gain practical experience in the field of engineering.
          </p>
         </div>
 
         <div className="btn-box btns" data-aos="fade-up" data-aos-delay="800">
-          <a href="https://docs.google.com/presentation/d/14aOaf9Hk0ub0tn4p0YbUBhxabcGyKa5ovP7NdfEI2TM/edit?usp=drive_web&ouid=108904276595134166729" className="btn">Read More</a>
+          <a href="https://docs.google.com/document/d/14FlkgbcHJKJJA-6MKo5_cUPXY6dD4m1Q-up1KNnTQLY/edit?usp=sharing" className="btn">MY CV</a>
         </div>
       </div>
     </section>
