@@ -25,7 +25,7 @@ const Portfolio = () => {
             </div>
             <div className="port-content">
               <h3>lorem</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, dolore cumque? Temporibus odit autem quos perferendis fugit corrupti? Repudiandae</p>
+              <p>*Aurora** is a responsive clothing store focused on graphic tees and curated pieces. It includes product browsing, category filters, a shopping bag, favorites, search, and a clean, accessible design.</p>
               <a href="#"><i className='bx bx-link-external'></i></a>
             </div>
           </div>
