@@ -26,7 +26,7 @@ const Portfolio = () => {
             <div className="port-content">
               <h3> Aurora </h3>
               <p> Aurora is a responsive clothing store focused on graphic tees and curated pieces. It includes product browsing, category filters, a shopping bag, favorites, search, and a clean, accessible design.</p>
-              <a href=""><i className='bx bx-link-external'></i></a>
+              <a href="https://aurora-clothing.vercel.app/"><i className='bx bx-link-external'></i></a>
             </div>
           </div>
 
